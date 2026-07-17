@@ -1,4 +1,4 @@
-# React Fundamentals 🚀
+# React Fundamentals 
 
 Projeto desenvolvido durante meus estudos de React.js, com foco nos fundamentos da biblioteca e na criação de componentes reutilizáveis.
 
